@@ -19,4 +19,4 @@ In this study we will use the data collected by an on-line version of  <a href='
   some additional and important features (level of depression and anixety) will be calculated from Research survey's answers. The calculation will follow the information provided by <a href='https://www.psytoolkit.org/survey-library/depression-anxiety-stress-dass.html'>(DASS)</a>  
   <h3>Tools</h3>
   jupyter nootbook with some DS libraries such as pandas and numpy to maipulate the data, matplotlib and seaborn to visulalize the data and
-scikit learn to build a model for precidtion.
+scikit learn to build a model for precidtion. 
