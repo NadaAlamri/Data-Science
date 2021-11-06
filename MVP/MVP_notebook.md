@@ -1,6 +1,6 @@
 
 <h3>MVP of Analysis of DASS study to predict Depression</h3>
-the goal of this project is to understand the factors that may contribute in possible *** of Depression. The study will focus also on finding the realtionship between anxiety and depression.<br>
+the goal of this project is to understand the factors that may contribute to an individual's depression. The study will focus also on finding the realtionship between anxiety and depression.<br>
 to achieve this goal, a study were implemented on the data provided.<br>
 the level of Depression, Stress and Anxiety we're calculated and added to the dataset.<br>
 data cleansing and getting rid of null values.<br>
