@@ -1,2 +1,14 @@
-<h3>Analysis of DASS study</h3>
-the goal of this project is to find the realtionship between anxiety and depression and to see the impact of age, education and urban on it.
+<h3>MVP of Analysis of DASS study to predict Depression</h3>
+the goal of this project is to understand the factors that may contribute in possible *** of Depression. The study will focus also on finding the realtionship between anxiety and depression.<br>
+to achieve this goal, a study were implemented on the data provided.<br>
+the level of Depression, Stress and Anxiety we're calculated and added to the dataset.<br>
+data cleansing and getting rid of null values.<br>
+the required data for study were then selected.<br>
+an analysis was done to find the impact of some factors of the study on depression.<br>
+the correlation heatmap was used to find the correaltion between factors<br>
+
+
+some analysis shows that the number of people who has Sever Aniexty will most linlky have a depression.<br>
+linear regression was used to start with but the score was not effecient.<br>
+further study will be conducted to find best algorithm to predict the depression level.<br>
+
