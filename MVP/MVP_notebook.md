@@ -16,4 +16,3 @@ Some analysis shows that the number of people who has Sever Aniexty will most li
 <img src='https://github.com/NadaAlamri/Data-Science/blob/main/MVP/anx.png'>
 <br>for a start, linear regression was used but the score was not effecient.<br>
 further study will be conducted to find best algorithm to predict the depression level.<br>
-
