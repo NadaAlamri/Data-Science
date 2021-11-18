@@ -25,7 +25,7 @@ In this study we will use the data collected by an on-line version of  <a href='
     <li>support-vector machines SVM</li>
   <li><random forest (RF)/li>
   </ul>
-    All the model shows an approximitely the same accuracy with mean 75%. To optimize accuracy, some hyper parameters were changed, corss-validation was done but result didn't chnage much.
+    All the models show an approximitely the same accuracy with mean 75%. To optimize accuracy, some hyper parameters were changed, corss-validation was done but result didn't chnage much.
   <h3>Tools</h3>
   jupyter nootbook with some DS libraries such as pandas and numpy to maipulate the data, matplotlib and seaborn to visulalize the data and
 scikit learn for model for realted libraries. 
