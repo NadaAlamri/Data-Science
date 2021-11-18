@@ -23,7 +23,7 @@ In this study we will use the data collected by an on-line version of  <a href='
     <li> k-nearest neighbors algorithm (k-NN) </li>
     <li>logistic regression(LR)</li>
     <li>support-vector machines SVM</li>
-  <li><random forest (RF)/li>
+  <li><random forest (RF)</li>
   </ul>
     All the models show an approximitely the same accuracy with mean 75%. To optimize accuracy, some hyper parameters were changed, corss-validation was done but result didn't chnage much.
   <h3>Tools</h3>
