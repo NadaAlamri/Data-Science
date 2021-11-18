@@ -4,7 +4,7 @@
 Depression and anxiety disorders are the most prevalent mental health conditions worldwide. In general‚ about 1 out of every 6 adults will have depression at some time in their life. 
 In this study we will use the data collected by an on-line version of  <a href='https://www.psytoolkit.org/survey-library/depression-anxiety-stress-dass.html'>Depression Anxiety Stress Scales (DASS) </a> , along with The Ten Item Personality Inventory (TIPI) questionnaire and some personal features to predict depression.
   <h3>Design</h3>
-  The project will show whether an individual has Depression disorder. The Depression Scaling in DASS was categorized into High and Normal, so each indiviual will  be classified as Normal or High Depression.  Data cleansing and Exploration were done before testing and evaluating models.
+  The project will determine whether an individual has Depression disorder or not. The Depression Scaling in DASS was categorized into High and Normal, so each indiviual will  be classified as Normal or High Depression.  Data cleansing and Exploration were done before testing and evaluating models.
   <h3>Dataset</h3>
  Dataset was obtained from  <a href='https://www.kaggle.com/yamqwe/depression-anxiety-stress-scales'>kaggle </a> in form (.csv). 
   <br/> dataset contains 172 columns and 39,775 rows:
